@@ -1,0 +1,9 @@
+LCLid,day,energy_sum,Acorn_grouped
+MAC000001,2026-01-15,18.4,Affluent
+MAC000001,2026-01-14,15.2,Affluent
+MAC000002,2026-01-15,0.42,Affluent
+MAC000002,2026-01-14,0.38,Affluent
+MAC000003,2026-01-15,8.5,Adversity
+MAC000003,2026-01-14,7.9,Adversity
+MAC000004,2026-01-15,1.1,Comfortable
+MAC000004,2026-01-14,0.9,Comfortable
